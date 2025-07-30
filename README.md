@@ -1,6 +1,7 @@
 <h1>Employee Manager - C# Windows Forms Application</h1>
-<img src="1.png"><img src="2.png">
-
+<div style=" display: flex; "> 
+  <img width="40%" heigth="60%" src="1.png"> <img width="40%" heigth="60%" src="2.png">
+</div>
 <h2>Overview</h2>
 <p>Employee Manager is a desktop application built with C# Windows Forms for managing employee records. It provides basic CRUD operations for employee data management.</p>
 
